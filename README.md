@@ -20,16 +20,4 @@ This project is a Python-based Twitter bot that interacts with the Twitter API t
    git clone https://github.com/yourusername/twitter-bot.git
    cd twitter-bot
    
-##Install required libraries:
-'''bash
-      pip install -r requirements.txt
 
-##Run the bot:
-
-python bot.py
-
-##Future Enhancements:
-
-Add AI-based sentiment analysis for replies.
-Enhance scheduling with time zone support.
-Integrate trending hashtag analysis.
