@@ -20,7 +20,7 @@
     <p>Follow these steps to set up the Twitter Bot on your local machine:</p>
     <ul>
         <li>Clone this repository to your local machine:
-            <br><code>git clone https://github.com/yourusername/twitter-bot.git</code>
+            <br><code>git clone https://github.com/ANKITHMOHAN1307/Twitter_Bot.git
         </li>
         <li>Navigate to the project directory:
             <br><code>cd twitter-bot</code>
