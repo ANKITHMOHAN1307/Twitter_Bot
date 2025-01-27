@@ -5,7 +5,6 @@
 <header>
     <h1>Twitter Bot Project</h1>
 </header>
-
 <section>
     <h2>🚀 Features</h2>
     <ul>
