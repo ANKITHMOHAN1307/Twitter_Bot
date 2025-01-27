@@ -57,13 +57,8 @@
     </ul>
 </section>
 
-<section>
-    <h2>📋 License</h2>
-    <p>This project is licensed under the MIT License. See the <a href="LICENSE" target="_blank">LICENSE</a> file for details.</p>
-</section>
-
 <footer>
-    <p>Made with ❤️ by <strong>Your Name</strong></p>
+    <p>BY <strong>Ankith Mohan</strong></p>
 </footer>
 
 </body>
