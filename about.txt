@@ -4,3 +4,6 @@ I would be basicallly copying the git repo of someonne and would be making some 
 And the changes would go as  follow:
 
 This is the basic working I think would be happening in this TWITTER  BOT API
+
+ After viewing some videos and sharing ideas wih Chatgpt  I get to an idea of posting evry tweet about the current trend and to post it at the midnight so i loooked for what should be done and again did take a lot of help as i posted my token and keys as its so 
+chatgpt helped me lot in a good way
